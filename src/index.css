@@ -23,7 +23,7 @@ body {
 
 /* Home Page */
 .home {
-    background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/home/background-home-mobile.jpg");
+    background-image: url("/space-tourism-website-main/space-tourism-website-main/public/assets/home/background-home-mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
