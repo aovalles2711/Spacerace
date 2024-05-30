@@ -23,7 +23,11 @@ body {
 
 /* Home Page */
 .home {
+<<<<<<< HEAD
     background-image: url("/space-tourism-website-main/public/assets/home/background-home-mobile.jpg");
+=======
+    background-image: url("../public/assets/home/background-home-mobile.jpg");
+>>>>>>> 5c003403 (updated background images)
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,7 +214,11 @@ a:active {
 /* Responsiveness Styling */
 @media (min-width: 768px) {
     .home {
+<<<<<<< HEAD
         background: url("/space-tourism-website-main/public/assets/home/background-home-tablet.jpg")
+=======
+        background-image: url("../public/assets/home/background-home-tablet.jpg")
+>>>>>>> 5c003403 (updated background images)
         no-repeat center/cover;
     }
 
@@ -298,7 +306,11 @@ a:active {
 
 @media (min-width: 1440px) {
     .home {
+<<<<<<< HEAD
         background: url("/space-tourism-website-main/public/assets/home/background-home-desktop.jpg")
+=======
+        background-image: url("../../space-tourism-website-main/public/assets/home/background-home-desktop.jpg")
+>>>>>>> 5c003403 (updated background images)
         no-repeat center/cover;
     }
 
