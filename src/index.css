@@ -210,7 +210,7 @@ a:active {
 /* Responsiveness Styling */
 @media (min-width: 768px) {
     .home {
-        background-image: url("../public/assets/home/background-home-tablet.jpg")
+        background-image: url("../public/assets/home/background-home-tablet.jpg");
         background-repeat: no-repeat;
         background-position: center;
         backgrond-position: cover;
