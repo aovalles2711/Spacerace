@@ -211,7 +211,9 @@ a:active {
 @media (min-width: 768px) {
     .home {
         background-image: url("../public/assets/home/background-home-tablet.jpg")
-        no-repeat center/cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        backgrond-position: cover;
     }
 
     .home h1 {
@@ -299,7 +301,10 @@ a:active {
 @media (min-width: 1440px) {
     .home {
         background-image: url("../public/assets/home/background-home-desktop.jpg");
-        no-repeat center/cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        backgrond-position: cover;
+    }
     }
 
     .home h1 {
