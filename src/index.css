@@ -298,7 +298,7 @@ a:active {
 
 @media (min-width: 1440px) {
     .home {
-        background-image: url("../../space-tourism-website-main/public/assets/home/background-home-desktop.jpg")
+        background-image: url("../public/assets/home/background-home-desktop.jpg");
         no-repeat center/cover;
     }
 
