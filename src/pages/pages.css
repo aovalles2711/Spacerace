@@ -53,7 +53,7 @@
 
 /* Destination Page Details */
 .destination {
-    background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/destination/background-destination-mobile.jpg");
+    background-image: url("/public/assets/destination/background-destination-mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -117,7 +117,7 @@
 
 /* Crew Page Details */
 .crew {
-    background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/crew/background-crew-mobile.jpg");
+    background-image: url("/public/assets/crew/background-crew-mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@
 
 /* Technology Page Details */
 .technology {
-    background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/technology/background-technology-mobile.jpg");
+    background-image: url("/public/assets/technology/background-technology-mobile.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@
 
     /* Destination Page */
     .destination {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/destination/background-destination-tablet.jpg");
+        background-image: url("/public/assets/destination/background-destination-tablet.jpg");
     }
 
     .destination-title {
@@ -279,7 +279,7 @@
 
     /* Crew Page */
     .crew {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/crew/background-crew-tablet.jpg");
+        background-image: url("/public/assets/crew/background-crew-tablet.jpg");
     }
 
     .crew-responsiveness-wrapper {
@@ -324,7 +324,7 @@
 
     /* Technology Page Design */
     .technology {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/technology/background-technology-tablet.jpg");
+        background-image: url("/public/assets/technology/background-technology-tablet.jpg");
     }
 
     .tech-card {
@@ -361,7 +361,7 @@
     }
 
     .destination {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/destination/background-destination-desktop.jpg");
+        background-image: url("/public/assets/destination/background-destination-desktop.jpg");
     }
 
     .destination-card {
@@ -390,7 +390,7 @@
     /* Crew Desktop Responsiveness Design */
 
     .crew {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/crew/background-crew-desktop.jpg");
+        background-image: url("/public/assets/crew/background-crew-desktop.jpg");
     }
 
     .crew-img {
@@ -430,7 +430,7 @@
 
     /* Tech Desktop Responsiveness Design */
     .technology {
-        background-image: url("/Users/anthonyovalles/Documents/Programming/space-tourism-website-main/space-tourism-website-main/public/assets/technology/background-technology-desktop.jpg");
+        background-image: url("/public/assets/technology/background-technology-desktop.jpg");
     }
 
     .tech-responsiveness-wrapper {
